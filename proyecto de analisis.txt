@@ -1,0 +1,35 @@
+Tomar la ecuación de conservacion de la masa
+
+Tomar el coefiiciente de viscosidad y numero de Reynolds
+
+Tomar la ley de Poiseuille para el flujo en tubos
+
+Se me ocurrre hablar directamente del radio hidraulico y hablar del calculo de cada tipo de seccion que encontre. Hacer una grafica comparativa pues son funciones de dos o tres variables. Hablar especialmente de cada una de las formas y su repercuision en el caudal.
+1. Rectangular
+2. Trapezoidal
+3. Triangular
+4. Circular (ecuacion trascendete)
+5. Parabolica
+6. Froma irregular
+
+Tambien puedo incluir perdida de cargas segun la formula de Manning 
+https://diccionario.sensagent.com/F%C3%B3rmula%20de%20Manning/es-es/
+
+Parece ser que el diametro hidrauico es antes del radio 
+https://diccionario.sensagent.com/Di%C3%A1metro%20hidr%C3%A1ulico/es-es/
+
+La ecuación de Darcy-Weisbach es una ecuación ampliamente usada en hidráulica. Permite el cálculo de la pérdida de carga debida a la fricción dentro una tubería.
+https://diccionario.sensagent.com/Ecuaci%C3%B3n%20de%20Darcy-Weisbach/es-es/
+
+Ver donde entra la formula de Chezy
+https://diccionario.sensagent.com/F%C3%B3rmula%20de%20Ch%C3%A9zy/es-es/
+
+
+Meter la formula de Bazin
+https://diccionario.sensagent.com/F%C3%B3rmula%20de%20Bazin/es-es/
+
+Recordar la definicion de caudal y coeficiente de Chezy
+
+Base de toda la investigación
+https://enfisica.com/hidrodinamica/hidrodinamica-en-fisica-formulas-ejemplos-y-propiedades-de-los-fluidos-en-movimiento/#gsc.tab=0
+
